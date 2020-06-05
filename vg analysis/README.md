@@ -20,6 +20,6 @@ Fields include
 
 * Global_Sales - Total worldwide sales.
 
-The script to scrape the data is available at [here](https://github.com/GregorUT/vgchartzScrape.).
+The script to scrape the data is available at [here](https://github.com/GregorUT/vgchartzScrape).
 
 The dataset is available in [kaggle](https://www.kaggle.com/gregorut/videogamesales) too.
